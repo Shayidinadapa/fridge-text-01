@@ -1,0 +1,1 @@
+{"description":"make.fun entry: the one line a smart fridge texts its owner at 3am","license":"MIT","main":"main.ts","name":"fridge-text-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
